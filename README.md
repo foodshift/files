@@ -1,1 +1,1 @@
-# files
+Repository of downloadable Food Shift files - charts, maps, overviews, etc. 
